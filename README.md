@@ -2,7 +2,7 @@
 
 
 database mysql = ass
-
+dont forget to migrate + seed
 
 
 
